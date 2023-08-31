@@ -1,5 +1,5 @@
 node_modules
 dist
 
-./.vscode/settings.json
-./Users/justin/.vscode/*.*
+.vscode/settings.json
+Users/justin/.vscode/*.*
