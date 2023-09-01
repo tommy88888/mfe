@@ -1,5 +1,4 @@
 node_modules
 dist
 
-.vscode/*.*
-Users/justin/.vscode/*.*
+.vscode
